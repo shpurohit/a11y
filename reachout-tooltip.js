@@ -147,7 +147,7 @@ function MicAccessTool(o) {
         o.btn_open +
         '" tabindex="1" id="mic-access-tool-general-button" class="mic-access-tool-general-button"><div><span>CTRL+F2</span> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAMAAAC7IEhfAAAA+VBMVEUAAAAuzHEuzHEuzHEuzHEuzHEuzHEuzHEuzHEuzHEuzHEuzHEuzHEuzHEuzHEuzHEuzHEuzHEuzHEuzHEuzHEuzHEuzHEuzHEuzHEuzHEuzHEuzHEuzHEuzHEuzHEuzHEuzHEuzHEuzHEuzHEuzHEuzHEuzHEuzHEuzHEuzHEuzHEuzHEuzHEuzHEuzHEuzHEuzHEuzHEuzHEuzHEuzHEuzHEuzHEuzHEuzHEuzHEuzHEuzHEuzHEuzHEuzHEuzHEuzHEuzHEuzHEuzHEuzHEuzHEuzHEuzHEuzHEuzHEuzHEuzHEuzHEuzHEuzHEuzHEuzHEuzHEuzHF74uanAAAAUnRSTlMAAQMEBwgKCwwNDg8QERIVGhscHR8gJicqLzU2OTpFRklKTE1QUVVWXF1kZmtscHFzdXt/goORmJqdnqOlqrm6vL7AwcfIytPa3ODi5Ojz9fn7dlsVJQAAAU5JREFUOMvt08lSwkAUheETwIGIoqKIE4oogwMKziKoKCCDA//7P4yLhEq00mFhlSvvqk/ypXP7piL9rHOAc02sNQBYmwhrDqz9Bs4MD5Nhr04eDaclSWWgV5oPPsx8uQeUJEmpOgDdgu3uWau5+9mFLgD1lPuYXfkEoJ2f8XWU7wDwWYn7+ozsvDq9PWWnJGkq23Lyazby80zphnOL5tVV01020oGTSVRH+GpUnTMOMZrzXC4aOm8PTvgw//Bvoe1BOxTmARIJgL1Q+AjUpXvgIczFAFakVYBYCNwGOpLUAbZC4B2wIUmbwK3ZRYA3S5KsNyBihBlg31keABkjvISR+wNER3BhctYHnI7DGbxbBpgCZschDiwb4Alce+kGjg1wAIteWoJ+sFuAlj8/w0IgLMK6P69DIRC26X87pjXgJXjH/u73C7l+0TTIkPgFhXx2Xm9a0zIAAAAASUVORK5CYII=" alt="' +
         o.btn_open +
-        '"></div></button><div id="mic-access-tool-box" class="mic-access-tool-box"><div class="mic-access-tool-box-header">acc toolbox <button title="' +
+        '"></div></button><div id="mic-access-tool-box" class="mic-access-tool-box"><div class="mic-access-tool-box-header">ReachOut Tooltip <button title="' +
         o.btn_close +
         '" id="mic-access-tool-box-close-button">&#10007; - ' +
         o.btn_close +
